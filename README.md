@@ -38,6 +38,45 @@ OpenAI AI 整理
 
 ## ✨ 主要功能
 
+## 📸 Demo 畫面
+
+### 1. 首頁與功能入口
+
+進入系統後，使用者可以透過預設問題快速開始，也可以直接輸入遊戲相關問題。
+
+![MapleStar AI Home](./public/screenshots/01-home.png)
+
+---
+
+### 2. 問題分析與搜尋
+
+輸入問題後，系統會進行問題分析並搜尋相關資料。
+
+例如：
+
+> 「50等去哪裡練等？」
+
+系統會進入資料搜尋與 AI 處理流程，並顯示 Loading 狀態。
+
+![MapleStar AI Loading](./public/screenshots/02-loading.png)
+
+---
+
+### 3. AI 回答與參考來源
+
+完成資料搜尋後，AI 會根據取得的資料整理回答，並在回答下方提供參考來源。
+
+![MapleStar AI Result](./public/screenshots/03-result.png)
+
+---
+
+### 4. 查看原始資料
+
+使用者可以點擊參考來源，直接查看原始網頁資料，方便進一步確認資訊。
+
+![MapleStar AI Source](./public/screenshots/04-source.png)
+
+
 ### 💬 AI 聊天介面
 
 * 提供遊戲問題輸入介面
